@@ -1,6 +1,6 @@
 # NLP-Ready Corpus of Berkshire Hathaway Shareholder Letters
 
-This repository provides a small, deterministic ingestion pipeline for assembling a complete corpus of Chairman’s Letters to Shareholders from **:contentReference[oaicite:0]{index=0}** (1977–present).
+This repository provides a small, deterministic ingestion pipeline for assembling a complete corpus of Chairman’s Letters to Shareholders from 1977–present.
 
 The goal is to produce a **stable, NLP-ready document set** that can be reused across experiments without repeated ingestion work.
 
